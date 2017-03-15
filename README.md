@@ -1,2 +1,2 @@
 # hello-world
-Just another hello-world tutorial
+Just following the well trodden path here. We'll be arriving shortly I hope.
